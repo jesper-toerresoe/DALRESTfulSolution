@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DALRESTfulUtil\DALRESTfulUtil.csproj">
+      <Project>{6065a6f1-2896-44d9-874d-1d018b580f23}</Project>
+      <Name>DALRESTfulUtil</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
