@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6065A6F1-2896-44D9-874D-1D018B580F23}</ProjectGuid>
+    <ProjectGuid>{CA7D9008-7C89-40BC-90CC-ABBF3A5E5119}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DALRESTfulUtil</RootNamespace>
